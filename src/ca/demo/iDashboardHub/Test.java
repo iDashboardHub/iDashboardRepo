@@ -6,7 +6,7 @@ public class Test{
 	public void display(){
 		System.out.println("Sub Test");
 		System.out.println("Sub Test 123");
-		
+		System.out.println("Merge in user2");
 		System.out.println("First change");
 }
 }
