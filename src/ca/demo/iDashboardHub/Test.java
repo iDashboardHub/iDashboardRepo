@@ -1,4 +1,4 @@
-package ca.demo.salestool;
+package ca.demo.iDashboardHub;
 
 public class Test{
 
